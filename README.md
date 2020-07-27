@@ -7,4 +7,5 @@ my programming language
 
 -javascript
  -react
+ -deno
  
