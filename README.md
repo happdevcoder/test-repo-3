@@ -7,6 +7,9 @@ my programming language
 
 -javascript
 
- -angular
+
+ -react
  
- -django
+ -deno
+ 
+
